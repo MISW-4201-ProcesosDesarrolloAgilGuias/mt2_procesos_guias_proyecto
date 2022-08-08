@@ -8,18 +8,15 @@ Estructurar el espacio para la gestión y documentación del proyecto en Jira y 
 
 ### Pasos previos
 
----
+
 Para realizar esta actividad, se espera que cada miembro del equipo:
 
 * Verifique su acceso al repositorio asignado en GitHub.
 * Cree una cuenta en [Jira](https://id.atlassian.com/signup?continue=https%3A%2F%2Fid.atlassian.com%2Fstart%3FatlOrigin%3DeyJpIjoiYjFkY2ZkMWNjNmI5NDFjMjg5ZWE0NmMyMGE1ODJjYWIiLCJwIjoid2FjLWdsb2JhbGRyb3Bkb3duIn0).
 
-~~~
-Las funcionalidades de la versión gratuita son suficientes para la gestión del proyecto del curso.
-
-Abstengase de aceptar las opciones de periodos de prueba para los planes pagos pues una vez finalizan, no tendrá acceso
-a la información de los proyectos creados en el plan free. 
-~~~
+>   *Las funcionalidades de la versión gratuita son suficientes para la gestión del proyecto del curso.
+> **Abstengase de aceptar las opciones de periodos de prueba para los planes pagos pues una vez finalizan, NO tendrá acceso
+> a la información de los proyectos creados en el plan free.***
 
 
 ### Descripción actividad
